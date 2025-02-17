@@ -4,6 +4,6 @@
   "main": "src/index.tsx",
   "dependencies": {
     "@tsdaodao/base": "*",
-    "axios": "^0.25.0"
+    "axios": "^1.7.9"
   }
 }
